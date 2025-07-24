@@ -90,15 +90,16 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Run the Training Script
-``bash
+
+```bash
 python train_model.py
 ```
 
 ## 📈 Run Evaluation
-``bash
+```bash
 python evaluate.py
-
 ```
+
 ## ✅ Results
 
 The hybrid model demonstrated strong potential in violence classification tasks, particularly in surveillance images. The Transformer block helped the model focus on spatially important areas, improving performance.
